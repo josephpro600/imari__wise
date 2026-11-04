@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { ArrowRight, BarChart3, PiggyBank, Target, Wallet, WalletCards } from 'lucide-react';
+import { ArrowRight, BarChart3, Target, Wallet, WalletCards } from 'lucide-react';
 import { useAuth } from '@/contexts/AuthContext';
 import { useFormatters } from '@/hooks/useFormatters';
 import { Link, useRouter } from '@/lib/router';

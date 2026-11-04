@@ -1,4 +1,3 @@
-import type { ReactNode } from 'react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import type { Language } from '@/types/finance';
 
